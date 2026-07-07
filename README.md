@@ -55,4 +55,4 @@ Traditional Google Sheets backends fail at scale because they hardcode a single 
 This platform relies on Google's native OAuth and file-sharing permissions to secure the distributed databases. Ensure that tenant databases are shared **only** with the developer email that deployed the Master Router. The frontend never sees or transmits the raw database ID after the initial onboarding step.
 
 ---
-*Architected and engineered by zen-ash-dev.*
+*Architected and engineered by ashrion.*
